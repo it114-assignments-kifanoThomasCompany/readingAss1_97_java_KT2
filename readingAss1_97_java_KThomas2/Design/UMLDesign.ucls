@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="readingAss1_97_java_KThomas2.Account" project="readingAss1_97_java_KThomas2" 
+    file="/readingAss1_97_java_KThomas2/src/readingAss1_97_java_KThomas2/Account.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="196" x="168" y="-17"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="readingAss1_97_java_KThomas2.AccountTest" project="readingAss1_97_java_KThomas2" 
+    file="/readingAss1_97_java_KThomas2/src/readingAss1_97_java_KThomas2/AccountTest.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="99" width="148" x="404" y="-17"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
